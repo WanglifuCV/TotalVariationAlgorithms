@@ -5,3 +5,6 @@
 本仓库的代码来源于：
 http://www.gipsa-lab.grenoble-inp.fr/~laurent.condat/software.html
 
+其他的对TV的优化算法：
+TVAL3: TV minimization by Augmented Lagrangian and ALternating direction ALgorithms
+https://www.caam.rice.edu/~optimization/L1/TVAL3/
